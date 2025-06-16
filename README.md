@@ -51,11 +51,11 @@ project-root/
 ├── data/
 │   └── 50_startups.csv
 ├── outputs/
-│   └── MLR_predictions_python.csv
-│   └── MLR_predictions_r.csv
+│   └── MLR_predicted_profits_py.csv
+│   └── MLR_predicted_profits_r.csv
 ├── plots/
-│   └── regression_plot_train_r.png
-│   └── regression_plot_test_r.png
+│   └── mlr_actual_vs_predicted_py.png
+│   └── mlr_actual_vs_predicted_r.png
 ├── multiple_linear_regression.py
 ├── multiple_linear_regression.R
 ├── requirements.txt
